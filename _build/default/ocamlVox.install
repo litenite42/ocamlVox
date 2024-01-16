@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ocamlVox/META"
+  "_build/install/default/lib/ocamlVox/dune-package"
+  "_build/install/default/lib/ocamlVox/opam"
+]
+bin: [
+  "_build/install/default/bin/ocamlVox"
+]

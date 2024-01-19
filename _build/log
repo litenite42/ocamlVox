@@ -1,11 +1,11 @@
-# dune exec ocamlVox helloWorld
+# dune exec ocamlVox test.lox
 # OCAMLPARAM: unset
 # Workspace root:
 # /home/litenite/Documents/Programming/Development/ocaml/ocamlVox
-$ /usr/bin/nproc > /tmp/dunead5f8e.output 2> /dev/null
+$ /usr/bin/nproc > /tmp/dune570615.output 2> /dev/null
 # Auto-detected concurrency: 8
 # disable binary cache
-$ /usr/bin/ocamlc.opt -config > /tmp/dunead541e.output
+$ /usr/bin/ocamlc.opt -config > /tmp/dune5921b0.output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
